@@ -1,6 +1,6 @@
 -- DIA 2 - A pista digital: consultando registros
 
--- 1. Selecionar os usuários cadastrados e ordená-los por data de criação
+-- 1. Selecionar os usuários cadastrados 
 SELECT *
 FROM usuarios
 
