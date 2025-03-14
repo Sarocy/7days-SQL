@@ -1,11 +1,9 @@
 -- DIA 2 - A pista digital: consultando registros
 
 -- 1. Selecionar os usuários cadastrados e ordená-los por data de criação
-ALTER TABLE usuarios ADD COLUMN data_criacao TIMESTAMP DEFAULT NOW();
-
 SELECT *
 FROM usuarios
-ORDER BY data_criacao;
+
 
 
 -- 2. Encontrar os logins realizados no dia do desaparecimento (26 de fevereiro de 2025)
