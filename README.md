@@ -2,7 +2,7 @@
 
 Neste primeiro dia da investigação, começamos a entender o ambiente onde ocorreu o incidente: o desaparecimento de uma programadora e o roubo de um código-fonte confidencial. Nossa missão inicial é **mapear os personagens envolvidos e construir o cenário do crime**.
 
-## 🎯 Objetivos do dia:
+## 🎯 Objetivos do dia
 
 Criar e popular as tabelas principais do sistema:
 - `usuarios` (**registro de dados dos funcionários**)  
