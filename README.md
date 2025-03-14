@@ -1,6 +1,6 @@
 # 📂 7DaysOfCode - SQL: Inserção de Dados
 
-Este repositório contém os scripts SQL responsáveis pela **inserção de dados** no banco de dados da investigação do desaparecimento da programadora **Aurora Camargo**.  
+Esta branch contém os scripts SQL responsáveis pela **inserção de dados** no banco de dados da investigação do desaparecimento da programadora **Aurora Camargo**.  
 
 🔍 Aqui, você encontrará os comandos `INSERT INTO` para popular as tabelas que serão analisadas ao longo dos **7 dias do desafio**.  
 
