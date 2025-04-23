@@ -29,7 +29,7 @@ Cada branch deste repositório contém o código SQL para um dia específico do 
 
 1. Clone o repositório na sua máquina local:
     ```sh
-    git clone https://github.com/Sarocy/7days-of-code-sql.git
+    git clone https://github.com/Sarocy/7days-SQL.git
     ```
 
 2. Troque para a branch desejada:
