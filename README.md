@@ -12,13 +12,13 @@ Este desafio abrange o uso de SQL para **consultas simples**, **joins** entre ta
 
 Cada branch deste repositório contém o código SQL para um dia específico do desafio:
 
-- `day-01`: A cena do crime: preparando o banco de dados
-- `day-02`: A pista digital: consultando registros
-- `day-03`: O rastro do dinheiro: investigando transações
-- `day-04`:  Os suspeitos: agrupando e contando dados
-- `day-05`: Mensagens: interceptando a comunicação
-- `day-06`: Junções entre tabelas
-- `day-07`: Conclusão sobre o desaparecimento
+- `dia-01`: A cena do crime: preparando o banco de dados
+- `dia-02`: A pista digital: consultando registros
+- `dia-03`: O rastro do dinheiro: investigando transações
+- `dia-04`:  Os suspeitos: agrupando e contando dados
+- `dia-05`: Mensagens: interceptando a comunicação
+- `dia-06`: Junções entre tabelas
+- `dia-07`: Conclusão sobre o desaparecimento
 
 ## 📚 Tecnologias Utilizadas
 
