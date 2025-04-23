@@ -34,9 +34,9 @@ Cada branch deste repositório contém o código SQL para um dia específico do 
 
 2. Troque para a branch desejada:
     ```sh
-    git checkout day-01
+    git checkout dia-01
     # ou
-    git checkout day-02
+    git checkout dia-02
     # e assim por diante
     ```
 
